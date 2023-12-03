@@ -1,0 +1,246 @@
+{
+    "nodes": [
+        {
+            "id": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "name": "Madonna"
+        },
+        {
+            "id": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "name": "Otto von Wernherr"
+        },
+        {
+            "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "name": "Rihanna"
+        },
+        {
+            "id": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+            "name": "Maroon 5"
+        },
+        {
+            "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+            "name": "Kendrick Lamar"
+        },
+        {
+            "id": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+            "name": "Rick Ross"
+        },
+        {
+            "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "name": "Britney Spears"
+        },
+        {
+            "id": "75a72702-a5ef-4513-bca5-c5b944903546",
+            "name": "John Legend"
+        },
+        {
+            "id": "49d67664-6962-4f69-adc4-f52208c78dd2",
+            "name": "Rich Brian"
+        },
+        {
+            "id": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
+            "name": "G\u2010Eazy"
+        }
+    ],
+    "links": [
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
+            "target": "c912a246-5b0e-4637-b324-0857fde9c712"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "target": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+        },
+        {
+            "source": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "target": "381086ea-f511-4aba-bdf9-71c753dc5077"
+        },
+        {
+            "source": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "target": "13bcb2bb-db37-4397-baf5-e0f085be2d64"
+        },
+        {
+            "source": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "target": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+        },
+        {
+            "source": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+            "target": "73e5e69d-3554-40d8-8516-00cb38737a1c"
+        },
+        {
+            "source": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+            "target": "381086ea-f511-4aba-bdf9-71c753dc5077"
+        },
+        {
+            "source": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+            "target": "381086ea-f511-4aba-bdf9-71c753dc5077"
+        },
+        {
+            "source": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+            "target": "381086ea-f511-4aba-bdf9-71c753dc5077"
+        },
+        {
+            "source": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+            "target": "381086ea-f511-4aba-bdf9-71c753dc5077"
+        },
+        {
+            "source": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+            "target": "381086ea-f511-4aba-bdf9-71c753dc5077"
+        },
+        {
+            "source": "381086ea-f511-4aba-bdf9-71c753dc5077",
+            "target": "73e5e69d-3554-40d8-8516-00cb38737a1c"
+        },
+        {
+            "source": "381086ea-f511-4aba-bdf9-71c753dc5077",
+            "target": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+        },
+        {
+            "source": "381086ea-f511-4aba-bdf9-71c753dc5077",
+            "target": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+        },
+        {
+            "source": "381086ea-f511-4aba-bdf9-71c753dc5077",
+            "target": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+        },
+        {
+            "source": "381086ea-f511-4aba-bdf9-71c753dc5077",
+            "target": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+        },
+        {
+            "source": "381086ea-f511-4aba-bdf9-71c753dc5077",
+            "target": "0ab49580-c84f-44d4-875f-d83760ea2cfe"
+        },
+        {
+            "source": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+            "target": "75a72702-a5ef-4513-bca5-c5b944903546"
+        },
+        {
+            "source": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+            "target": "49d67664-6962-4f69-adc4-f52208c78dd2"
+        },
+        {
+            "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "target": "79239441-bfd5-4981-a70c-55c3f15c1287"
+        },
+        {
+            "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "target": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1"
+        },
+        {
+            "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "target": "73e5e69d-3554-40d8-8516-00cb38737a1c"
+        },
+        {
+            "source": "75a72702-a5ef-4513-bca5-c5b944903546",
+            "target": "13bcb2bb-db37-4397-baf5-e0f085be2d64"
+        },
+        {
+            "source": "49d67664-6962-4f69-adc4-f52208c78dd2",
+            "target": "13bcb2bb-db37-4397-baf5-e0f085be2d64"
+        },
+        {
+            "source": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
+            "target": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76"
+        },
+        {
+            "source": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
+            "target": "13bcb2bb-db37-4397-baf5-e0f085be2d64"
+        }
+    ]
+}
