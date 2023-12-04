@@ -1,18 +1,32 @@
 {
     "nodes": [
         {
-            "id": "79239441-bfd5-4981-a70c-55c3f15c1287",
-            "name": "Madonna",
-            "symbolSize": 348,
-            "value": 348,
-            "category": 0
+            "id": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "name": "Carlos Vives",
+            "symbolSize": 93,
+            "value": 93,
+            "category": 1
         },
         {
-            "id": "c912a246-5b0e-4637-b324-0857fde9c712",
-            "name": "Otto von Wernherr",
-            "symbolSize": 16,
-            "value": 16,
-            "category": 3
+            "id": "3d6470bc-3929-4997-8ef0-56859fd0ab8a",
+            "name": "Ni\u00f1a Pastori",
+            "symbolSize": 18,
+            "value": 18,
+            "category": 5
+        },
+        {
+            "id": "95c8b6b7-1e24-4987-804c-024f6b05cd91",
+            "name": "David Bisbal",
+            "symbolSize": 71,
+            "value": 71,
+            "category": 2
+        },
+        {
+            "id": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+            "name": "Shakira",
+            "symbolSize": 113,
+            "value": 113,
+            "category": 0
         },
         {
             "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
@@ -33,14 +47,14 @@
             "name": "Kendrick Lamar",
             "symbolSize": 118,
             "value": 118,
-            "category": 1
+            "category": 3
         },
         {
             "id": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
             "name": "Rick Ross",
             "symbolSize": 153,
             "value": 153,
-            "category": 1
+            "category": 3
         },
         {
             "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
@@ -54,29 +68,64 @@
             "name": "John Legend",
             "symbolSize": 81,
             "value": 81,
-            "category": 2
+            "category": 4
         },
         {
             "id": "49d67664-6962-4f69-adc4-f52208c78dd2",
             "name": "Rich Brian",
             "symbolSize": 30,
             "value": 30,
-            "category": 1
+            "category": 3
         },
         {
             "id": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
             "name": "G\u2010Eazy",
             "symbolSize": 113,
             "value": 113,
-            "category": 1
+            "category": 3
         }
     ],
     "links": [
         {
-            "source": "79239441-bfd5-4981-a70c-55c3f15c1287",
-            "target": "c912a246-5b0e-4637-b324-0857fde9c712",
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
             "lineStyle": {
-                "width": 11
+                "width": 2
+            }
+        },
+        {
+            "source": "3d6470bc-3929-4997-8ef0-56859fd0ab8a",
+            "target": "95c8b6b7-1e24-4987-804c-024f6b05cd91",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "3d6470bc-3929-4997-8ef0-56859fd0ab8a",
+            "target": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "95c8b6b7-1e24-4987-804c-024f6b05cd91",
+            "target": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "95c8b6b7-1e24-4987-804c-024f6b05cd91",
+            "target": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+            "target": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+            "lineStyle": {
+                "width": 1
             }
         },
         {
@@ -130,13 +179,6 @@
         },
         {
             "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
-            "target": "79239441-bfd5-4981-a70c-55c3f15c1287",
-            "lineStyle": {
-                "width": 1
-            }
-        },
-        {
-            "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
             "target": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
             "lineStyle": {
                 "width": 1
@@ -153,6 +195,12 @@
     "categories": [
         {
             "name": "pop"
+        },
+        {
+            "name": "latin"
+        },
+        {
+            "name": "ballad"
         },
         {
             "name": "hip hop"
