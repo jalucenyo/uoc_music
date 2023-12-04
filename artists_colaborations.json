@@ -3,72 +3,72 @@
         {
             "id": "79239441-bfd5-4981-a70c-55c3f15c1287",
             "name": "Madonna",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 1
+            "symbolSize": 348,
+            "value": 348,
+            "category": 0
         },
         {
             "id": "c912a246-5b0e-4637-b324-0857fde9c712",
             "name": "Otto von Wernherr",
-            "symbolSize": 10,
-            "value": 10,
+            "symbolSize": 16,
+            "value": 16,
             "category": 3
         },
         {
             "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
             "name": "Rihanna",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 1
+            "symbolSize": 155,
+            "value": 155,
+            "category": 0
         },
         {
             "id": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
             "name": "Maroon 5",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 1
+            "symbolSize": 90,
+            "value": 90,
+            "category": 0
         },
         {
             "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
             "name": "Kendrick Lamar",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 2
+            "symbolSize": 118,
+            "value": 118,
+            "category": 1
         },
         {
             "id": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
             "name": "Rick Ross",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 2
+            "symbolSize": 153,
+            "value": 153,
+            "category": 1
         },
         {
             "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
             "name": "Britney Spears",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 1
+            "symbolSize": 127,
+            "value": 127,
+            "category": 0
         },
         {
             "id": "75a72702-a5ef-4513-bca5-c5b944903546",
             "name": "John Legend",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 0
+            "symbolSize": 81,
+            "value": 81,
+            "category": 2
         },
         {
             "id": "49d67664-6962-4f69-adc4-f52208c78dd2",
             "name": "Rich Brian",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 2
+            "symbolSize": 30,
+            "value": 30,
+            "category": 1
         },
         {
             "id": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
             "name": "G\u2010Eazy",
-            "symbolSize": 10,
-            "value": 10,
-            "category": 2
+            "symbolSize": 113,
+            "value": 113,
+            "category": 1
         }
     ],
     "links": [
@@ -152,13 +152,13 @@
     ],
     "categories": [
         {
-            "name": "soul"
-        },
-        {
             "name": "pop"
         },
         {
             "name": "hip hop"
+        },
+        {
+            "name": "soul"
         },
         {
             "name": "none"
