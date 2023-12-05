@@ -5,7 +5,7 @@
             "name": "Carlos Vives",
             "symbolSize": 93,
             "value": 93,
-            "category": 1
+            "category": 0
         },
         {
             "id": "3d6470bc-3929-4997-8ef0-56859fd0ab8a",
@@ -19,73 +19,234 @@
             "name": "David Bisbal",
             "symbolSize": 71,
             "value": 71,
-            "category": 2
+            "category": 8
         },
         {
             "id": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
             "name": "Shakira",
             "symbolSize": 113,
             "value": 113,
-            "category": 0
+            "category": 7
         },
         {
             "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
             "name": "Rihanna",
             "symbolSize": 155,
             "value": 155,
-            "category": 0
+            "category": 7
         },
         {
             "id": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
             "name": "Maroon 5",
             "symbolSize": 90,
             "value": 90,
-            "category": 0
+            "category": 7
         },
         {
             "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
             "name": "Kendrick Lamar",
             "symbolSize": 118,
             "value": 118,
-            "category": 3
+            "category": 1
         },
         {
             "id": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
             "name": "Rick Ross",
             "symbolSize": 153,
             "value": 153,
-            "category": 3
+            "category": 1
         },
         {
             "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
             "name": "Britney Spears",
             "symbolSize": 127,
             "value": 127,
-            "category": 0
+            "category": 7
         },
         {
             "id": "75a72702-a5ef-4513-bca5-c5b944903546",
             "name": "John Legend",
             "symbolSize": 81,
             "value": 81,
-            "category": 4
+            "category": 6
         },
         {
             "id": "49d67664-6962-4f69-adc4-f52208c78dd2",
             "name": "Rich Brian",
             "symbolSize": 30,
             "value": 30,
-            "category": 3
+            "category": 1
         },
         {
             "id": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
             "name": "G\u2010Eazy",
             "symbolSize": 113,
             "value": 113,
+            "category": 1
+        },
+        {
+            "id": "d0327acf-d213-4448-bd13-1de5b06f912d",
+            "name": "La Provincia",
+            "symbolSize": 3,
+            "value": 3,
+            "category": 5
+        },
+        {
+            "id": "82297b90-705c-4bb5-81b7-88d83fd1d0b4",
+            "name": "ChocQuibTown",
+            "symbolSize": 50,
+            "value": 50,
+            "category": 1
+        },
+        {
+            "id": "6a6eea03-b435-446c-bab1-312b45580aee",
+            "name": "Wisin",
+            "symbolSize": 115,
+            "value": 115,
+            "category": 0
+        },
+        {
+            "id": "b7c08df5-08cf-4c50-8fb9-f32d4b6faf42",
+            "name": "Yera",
+            "symbolSize": 8,
+            "value": 8,
+            "category": 0
+        },
+        {
+            "id": "63b7412b-54f1-4568-a6b8-25194699ca96",
+            "name": "Carlos Rivera",
+            "symbolSize": 20,
+            "value": 20,
+            "category": 0
+        },
+        {
+            "id": "1e93eba3-9195-4279-943e-1f480d76b839",
+            "name": "El Gran Mart\u00edn El\u00edas",
+            "symbolSize": 19,
+            "value": 19,
+            "category": 2
+        },
+        {
+            "id": "38812860-5534-42d2-9fe3-35293d46d882",
+            "name": "Billo's Caracas Boys",
+            "symbolSize": 29,
+            "value": 29,
             "category": 3
+        },
+        {
+            "id": "6a6eea03-b435-446c-bab1-312b45580aee",
+            "name": "Wisin",
+            "symbolSize": 115,
+            "value": 115,
+            "category": 0
+        },
+        {
+            "id": "e5b0283c-70bb-41ca-9baa-8ae56cd2782e",
+            "name": "Lucas Arnau",
+            "symbolSize": 27,
+            "value": 27,
+            "category": 0
+        },
+        {
+            "id": "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+            "name": "Emilia",
+            "symbolSize": 18,
+            "value": 18,
+            "category": 0
+        },
+        {
+            "id": "595fddb6-5c21-4f6a-91c8-7d3cd0208a1f",
+            "name": "Alex Rose",
+            "symbolSize": 21,
+            "value": 21,
+            "category": 4
+        },
+        {
+            "id": "0ebfc821-af9c-4685-9811-87e8d4c7f9de",
+            "name": "Cheo Gallego",
+            "symbolSize": 1,
+            "value": 1,
+            "category": 0
         }
     ],
     "links": [
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "d0327acf-d213-4448-bd13-1de5b06f912d",
+            "lineStyle": {
+                "width": 3
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "82297b90-705c-4bb5-81b7-88d83fd1d0b4",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "6a6eea03-b435-446c-bab1-312b45580aee",
+            "lineStyle": {
+                "width": 3
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "b7c08df5-08cf-4c50-8fb9-f32d4b6faf42",
+            "lineStyle": {
+                "width": 2
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "63b7412b-54f1-4568-a6b8-25194699ca96",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "1e93eba3-9195-4279-943e-1f480d76b839",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "38812860-5534-42d2-9fe3-35293d46d882",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "e5b0283c-70bb-41ca-9baa-8ae56cd2782e",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "595fddb6-5c21-4f6a-91c8-7d3cd0208a1f",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
+            "target": "0ebfc821-af9c-4685-9811-87e8d4c7f9de",
+            "lineStyle": {
+                "width": 1
+            }
+        },
         {
             "source": "ac367c2e-7783-41e5-a184-131da6b0c166",
             "target": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
@@ -190,26 +351,91 @@
             "lineStyle": {
                 "width": 1
             }
+        },
+        {
+            "source": "82297b90-705c-4bb5-81b7-88d83fd1d0b4",
+            "target": "6a6eea03-b435-446c-bab1-312b45580aee",
+            "lineStyle": {
+                "width": 2
+            }
+        },
+        {
+            "source": "6a6eea03-b435-446c-bab1-312b45580aee",
+            "target": "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+            "lineStyle": {
+                "width": 2
+            }
+        },
+        {
+            "source": "e5b0283c-70bb-41ca-9baa-8ae56cd2782e",
+            "target": "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "e5b0283c-70bb-41ca-9baa-8ae56cd2782e",
+            "target": "595fddb6-5c21-4f6a-91c8-7d3cd0208a1f",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "e5b0283c-70bb-41ca-9baa-8ae56cd2782e",
+            "target": "0ebfc821-af9c-4685-9811-87e8d4c7f9de",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+            "target": "595fddb6-5c21-4f6a-91c8-7d3cd0208a1f",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "0d5a1ad3-eaac-4aed-9ca2-96293cf6a2f4",
+            "target": "0ebfc821-af9c-4685-9811-87e8d4c7f9de",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "595fddb6-5c21-4f6a-91c8-7d3cd0208a1f",
+            "target": "0ebfc821-af9c-4685-9811-87e8d4c7f9de",
+            "lineStyle": {
+                "width": 1
+            }
         }
     ],
     "categories": [
         {
-            "name": "pop"
-        },
-        {
             "name": "latin"
-        },
-        {
-            "name": "ballad"
         },
         {
             "name": "hip hop"
         },
         {
-            "name": "soul"
+            "name": "vallenato"
+        },
+        {
+            "name": "cumbia"
+        },
+        {
+            "name": "dembow"
         },
         {
             "name": "none"
+        },
+        {
+            "name": "soul"
+        },
+        {
+            "name": "pop"
+        },
+        {
+            "name": "ballad"
         }
     ]
 }
