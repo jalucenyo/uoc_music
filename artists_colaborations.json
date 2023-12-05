@@ -12,35 +12,35 @@
             "name": "Ni\u00f1a Pastori",
             "symbolSize": 18,
             "value": 18,
-            "category": 2
+            "category": 3
         },
         {
             "id": "95c8b6b7-1e24-4987-804c-024f6b05cd91",
             "name": "David Bisbal",
             "symbolSize": 71,
             "value": 71,
-            "category": 5
+            "category": 6
         },
         {
             "id": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
             "name": "Shakira",
             "symbolSize": 113,
             "value": 113,
-            "category": 4
+            "category": 5
         },
         {
             "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
             "name": "Rihanna",
             "symbolSize": 155,
             "value": 155,
-            "category": 4
+            "category": 5
         },
         {
             "id": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
             "name": "Maroon 5",
             "symbolSize": 90,
             "value": 90,
-            "category": 4
+            "category": 5
         },
         {
             "id": "381086ea-f511-4aba-bdf9-71c753dc5077",
@@ -61,14 +61,14 @@
             "name": "Britney Spears",
             "symbolSize": 127,
             "value": 127,
-            "category": 4
+            "category": 5
         },
         {
             "id": "75a72702-a5ef-4513-bca5-c5b944903546",
             "name": "John Legend",
             "symbolSize": 81,
             "value": 81,
-            "category": 3
+            "category": 4
         },
         {
             "id": "49d67664-6962-4f69-adc4-f52208c78dd2",
@@ -85,11 +85,25 @@
             "category": 1
         },
         {
+            "id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+            "name": "Elton John",
+            "symbolSize": 363,
+            "value": 363,
+            "category": 5
+        },
+        {
+            "id": "01809552-4f87-45b0-afff-2c6f0730a3be",
+            "name": "Elvis Presley",
+            "symbolSize": 1179,
+            "value": 1179,
+            "category": 2
+        },
+        {
             "id": "d0327acf-d213-4448-bd13-1de5b06f912d",
             "name": "La Provincia",
             "symbolSize": 3,
             "value": 3,
-            "category": 2
+            "category": 3
         },
         {
             "id": "82297b90-705c-4bb5-81b7-88d83fd1d0b4",
@@ -207,7 +221,21 @@
         },
         {
             "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "target": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+            "lineStyle": {
+                "width": 5
+            }
+        },
+        {
+            "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
             "target": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
+            "lineStyle": {
+                "width": 1
+            }
+        },
+        {
+            "source": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+            "target": "01809552-4f87-45b0-afff-2c6f0730a3be",
             "lineStyle": {
                 "width": 1
             }
@@ -226,6 +254,9 @@
         },
         {
             "name": "hip hop"
+        },
+        {
+            "name": "rockabilly"
         },
         {
             "name": "none"
